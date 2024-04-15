@@ -30,7 +30,7 @@ The main functionality of the script starts the keylogger and listens for key ev
 
 ### Execution
 
-The script can be executed by running the `WiZzzeySenitel.py` file. It runs in the background and captures keyboard inputs without any visible interface.
+The script can be executed by running the `WiZzeySenitel.py` file. It runs in the background and captures keyboard inputs without any visible interface.
 
 ## Usage
 
@@ -48,7 +48,7 @@ The script can be executed by running the `WiZzzeySenitel.py` file. It runs in t
 
 3. Run the script:
    ```
-   python WiZzzeySenitel.py
+   python WiZzeySenitel.py
    ```
 
 4. To stop the keylogger, press the escape key (Key.esc).
