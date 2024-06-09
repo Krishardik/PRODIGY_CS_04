@@ -38,12 +38,12 @@ The script can be executed by running the `WiZzeySenitel.py` file. It runs in th
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Krishardik/PRODIGY_CS_04
+   git clone https://github.com/Krishardik/WiZeySenitl
    ```
 
 2. Navigate to the project directory:
    ```
-   cd PRODIGY_CS_04
+   cd WiZeySenitl
    ```
 
 3. Run the script:
